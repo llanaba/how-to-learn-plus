@@ -1,0 +1,7 @@
+.resources__link {
+  display: flex;
+  list-style-type: none;
+  width: 270px;
+  height: 38xp;
+  justify-content: center;
+}
