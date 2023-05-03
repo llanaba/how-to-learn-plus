@@ -1,0 +1,12 @@
+/* Стили отступов между секциями на странице:
+
+L = 217px
+ML = 160px
+M = 100px
+MS = 90px
+S = 60px
+XS = 40px */
+
+.page__section_margin_bottom-MS {
+  margin-bottom: 90px;
+}
