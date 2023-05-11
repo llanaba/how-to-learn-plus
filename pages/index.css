@@ -1,7 +1,5 @@
 @import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
-@import url(../blocks/page/__section/_margin/page__section_margin_bottom-MS.css);
-@import url(../blocks/page/__section/_margin/page__section_margin_top-MS.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
@@ -14,7 +12,6 @@
 @import url(../blocks/content/__digits/content__digits.css);
 @import url(../blocks/content/__resources/content__resources.css);
 @import url(../blocks/content/__techniques/content__techniques.css);
-@import url(../blocks/content/_align/content_align_center.css);
 @import url(../blocks/description/description.css);
 @import url(../blocks/description/__two-columns/description__two-columns.css);
 @import url(../blocks/two-columns/two-columns.css);
