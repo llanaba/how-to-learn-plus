@@ -2,6 +2,11 @@
   display: flex;
   list-style-type: none;
   width: 270px;
-  height: 38xp;
+  height: 38px;
   justify-content: center;
+}
+
+.resources__link:hover {
+  opacity: 0.7;
+  transition: opacity .3s ease;
 }
